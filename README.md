@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PRASHANT !!
 - 👀 I’m interested in competitive programming , development & AI ML. 
-- 🌱 I’m currently learning javascript , python and java.
+- 🌱 I’m currently learning javascript , python and C++.
 - 💞️ I’m looking to collaborate on projects involving web development (HTML, CSS, JavaScript), Python development (intermediate level), and C programming. I'm particularly interested in projects that focus on building web applications, software development, or system programming. Open to contributing to open-source projects and learning new technologies along the way!"
 - 📫 Here is my [Linkedin](https://www.linkedin.com/in/prashant-singh-897a33288/).
 - 😄 Pronouns: He/Him
