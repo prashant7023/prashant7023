@@ -1,4 +1,5 @@
 <img src=https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg>
+
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
 <h3 align="center">A passionate Programmer & frontend developer from India.</h3>
 
@@ -33,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant7023&show_icons=true&locale=en" alt="prashant7023" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant7023&" alt="prashant7023_streakstats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant7023&" alt="prashant7023" /></p>
