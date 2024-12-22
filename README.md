@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prashantsh7014@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hEGULnzZsAln2JlUTVkt8vWHpHePYKwq/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JhiHGY8tx-CJ5d9WTgz1V1c79XwbVWr1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
