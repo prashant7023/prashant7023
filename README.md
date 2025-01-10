@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prashant7023.github.io/Portfolio.me/](https://prashant7023.github.io/Portfolio.me/)
 
-- 💬 Ask me about **Frontend Web Development & C++**
+- 💬 Ask me about **Frontend Web Development & C++ DSA**
 
 - 📫 How to reach me **prashantsh7014@gmail.com**
 
