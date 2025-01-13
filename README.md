@@ -1,8 +1,9 @@
-<img src=https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg>
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
 <h3 align="center">A Passionate Programmer & Frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant7023&label=Profile%20views&color=0e75b6&style=flat" alt="prashant7023" /> </p>
+
+ <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 - 🌱 I’m currently learning **Problem Solving & DSA in C++.**
 
