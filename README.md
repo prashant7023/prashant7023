@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 👨‍💻 Here is my **Portfolio Website** - [Prashant-portfolio](https://prashantsh7023.vercel.app/)
+- 👨‍💻 Here is my **Portfolio Website** - [Prashant-portfolio](https://prashantsh.me)
 
 - 💬 Ask me about **Frontend Web Development & C++ DSA**
 
