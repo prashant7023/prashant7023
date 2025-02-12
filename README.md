@@ -24,6 +24,7 @@
 <a href="https://instagram.com/prashantsingh._rajput" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prashantsingh._rajput" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prashantsh7023" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prashant7023" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prashantsh7014" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prashantsh7014" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/prashant7023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prashant7023" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prashant7023" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashant7023" height="30" width="40" /></a>
 </p>
 
