@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 👨‍💻 Here is my **Portfolio Website** - [Prashant-folio](https://prashantsh.me)
+- 👨‍💻 Here is my **Portfolio Website** - [prashant.me](https://prashantsh.me)
 
 - 💬 Ask me about **Frontend Web Development & C++ DSA**
 
 - 📫 How to reach me **prashantsh7014@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1X78-Lgxxf9D8Qieipz4lMAY4LXXGDGe5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K7kcobOwkpFI40yacIXB9zePH4pCSqll/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
