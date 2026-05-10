@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 👨‍💻 Here is my **Portfolio Website** - [prashantsh.me](https://prashantsh.me)
+- 👨‍💻 Here is my **Portfolio Website** - [prashantt.me](https://prashantt.me)
 
 - 💬 Ask me about **Frontend Web Development & C++ DSA**
 
